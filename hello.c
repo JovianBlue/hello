@@ -10,8 +10,13 @@
 
 int main(int arcs, char **argv)
 {
-    printf("Keira Adriance!\n");
+    printf("Hello World, I'm Keira Adriance!\n");
     printf("Electrical Engineering\n");
+
+    printf("Hello World, I'm Annabel Patschke!\n");
+    printf("Computer Engineering\n");
+
+    return 0;
 
 }
 
